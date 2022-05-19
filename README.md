@@ -1,8 +1,8 @@
-# BarbeariaAlura
+# 🚀BarbeariaAlura🚀
 
 
-<h1>O que aprendir neste Curso.!!</h1>
-1º Modulo:
+<h1>O que aprendir neste Curso.!!🤙</h1>
+1º Modulo:✅
 
 <div>
  <ul class="lista-estudos">
@@ -15,7 +15,7 @@
     <li>Foram feitas 55 de 55 atividades.</li>
 </div>
   
-2º Modulo:
+2º Modulo:✅
   
 <div>
  <ul class="lista-estudos">
@@ -28,7 +28,7 @@
     <li>Foram feitas 61 de 61 atividades.</li>
 </div>
 
-3º Modulo:
+3º Modulo:✅
     
 <div>
  <ul class="lista-estudos">
@@ -41,7 +41,7 @@
 		
 </div>
     
-4º Modulo:
+4º Modulo:✅
        
 <div>
  <ul class="lista-estudos">
@@ -53,4 +53,6 @@
     <li>Design responsivo</li>
     <li>Foram feitas 49 de 49 atividades.</li>
 </div>
+	
+	👏👏👏👏👏👏👏👏👏👏!!!
 
